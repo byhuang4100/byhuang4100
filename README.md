@@ -1,5 +1,5 @@
 <p align="left">
-<h2>Hey 👋，I'm Ben</h2>
+<h2>Hey 👋 I'm Ben...</h2>
 </p>
 
 <p>
@@ -51,4 +51,4 @@ const ben = {
 
 ###### Look, I objectified myself...
 
-<img src="https://tenor.com/Kc3G.gif" alt="smh" width="206">
+<img src="https://tenor.com/view/emoji-face-palm-smh-disappointed-eye-roll-gif-8590938" alt="smh" width="206">
