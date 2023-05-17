@@ -51,4 +51,4 @@ const ben = {
 
 ###### Look, I objectified myself...
 
-<img src="https://tenor.com/view/emoji-face-palm-smh-disappointed-eye-roll-gif-8590938" alt="smh" width="206">
+<img src="https://media.giphy.com/media/fWgPzLGeI4okiaG8QT/giphy.gif" alt="smh" width="206">
