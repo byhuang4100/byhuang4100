@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**byhuang4100/byhuang4100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Get to know me 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ben = {
+  languages: ['javascript/typescript', 'java', 'python'],
+  technologies: {
+    mobile: ['react native', 'expo'],
+    frontend: {
+      js: ['react', 'redux'],
+      css: ['bootstrap', 'material-ui', 'sass'],
+    },
+    backend: {
+      js: ['node.js', 'express.js'],
+    },
+    database: ['SQL', 'NoSQL'],
+    misc: ['git', 'jest', 'docker', 'AWS'],
+  },
+  askMeAbout: [
+    'web dev',
+    'mobile tech',
+    'powerlifting',
+    'hiking',
+    'basketball',
+    'hip-hop/r&b',
+    'cars',
+  ],
+};
+```
+
+###### Look, I objectified myself heh...
+
+<img src="https://tenor.com/Kc3G.gif" alt="smh" width="206">
